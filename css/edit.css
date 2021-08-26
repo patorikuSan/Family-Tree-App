@@ -1,0 +1,29 @@
+*{
+	font-family: 'Helvetica';
+}
+form{
+	width: 500px;
+	margin-left: 30px;
+}
+input[type="text"], input[type="date"], input[type="email"]{
+	display: block;
+	width: 250px;
+	min-height: 20px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+input[type="submit"]{
+	min-height: 30px;
+	margin-bottom: 30px;
+}
+h1{
+	margin-left: 20px;
+}
+label{
+	color: green;
+}
+a{
+	margin-left: 30px;
+	margin-top: 10px;
+}
